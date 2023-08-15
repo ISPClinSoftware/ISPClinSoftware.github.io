@@ -1,17 +1,17 @@
 # site settings
-title: Science
-subtitle: Gateway
-email: sgsc@gateofsci.com
+title: Innova
+subtitle: Stat Plus
+email: isp@ispclinsoft.com
 description: A professional group <br /> to support <br /> your medical product development
 baseurl: "/" # the subpath of your site, e.g. /blog
 url: # the base hostname & protocol for your site
 author:
-street_address:  9716 Wilden Lane
-city: Potomac
+street_address: 38 Maryland Ave Unit 203 
+city: Rockville
 state: Maryland
-zip_code: 20854
+zip_code: 20850
 country: United States of America
-phone: +1 (301) 500-0517
+phone: +1 (808) 500-0888
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
@@ -22,7 +22,7 @@ tiles-count: 4
 # Icons are not shown if value is empty
 # You need to restart jekyll for changes to have an effect
 socials:
-  GitHub: https://github.com/ScienceGateway
+  GitHub: https://github.com/ISPClinSoftware
   GitLab:
   Google-Plus:
   Instagram:
