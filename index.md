@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Science Gateway Software & Consultation'
+landing-title: 'Innova Stat Plus'
 description: null
 image: null
 author: null
